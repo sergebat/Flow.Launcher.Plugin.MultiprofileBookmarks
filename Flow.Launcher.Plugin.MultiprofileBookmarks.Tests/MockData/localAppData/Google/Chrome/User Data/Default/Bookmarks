@@ -1,0 +1,33 @@
+{
+  "checksum": "00000000000000000000000000000000",
+  "roots": {
+    "bookmark_bar": {
+      "children": [
+        {
+          "date_added": "13259160000000000",
+          "guid": "80808080-8080-8080-8080-808080808080",
+          "id": "2",
+          "name": "Google",
+          "type": "url",
+          "url": "https://www.google.com/"
+        },
+        {
+          "date_added": "13259160000000001",
+          "guid": "90909090-9090-9090-9090-909090909090",
+          "id": "3",
+          "name": "Flow Launcher",
+          "type": "url",
+          "url": "https://flowlauncher.com/"
+        }
+      ],
+      "date_added": "13259160000000000",
+      "date_last_used": "0",
+      "date_modified": "13259160000000002",
+      "guid": "00000000-0000-0000-0000-000000000001",
+      "id": "1",
+      "name": "Bookmarks Bar",
+      "type": "folder"
+    }
+  },
+  "version": 1
+}

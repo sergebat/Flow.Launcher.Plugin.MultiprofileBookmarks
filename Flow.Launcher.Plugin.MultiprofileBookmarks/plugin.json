@@ -1,0 +1,12 @@
+{
+    "ID": "4E59C935731D45799A3CC0C7432EFD86",
+    "ActionKeyword": "bb",
+    "Name": "Multi-Profile Bookmarks",
+    "Description": "Opens bookmarks in correct browser profile. Ideal if you use separate profiles for work/study and personal browsing.",
+    "Author": "sergebat",
+    "Version": "0.0.1",
+    "Language": "csharp",
+    "Website": "https://github.com/sergebat/Flow.Launcher.Plugin.MultiprofileBookmarks",
+    "IcoPath": "Images\\icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.MultiprofileBookmarks.dll"
+}

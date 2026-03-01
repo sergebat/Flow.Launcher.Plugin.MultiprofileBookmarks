@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Flow.Launcher.Plugin.MultiprofileBookmarks.Tests/Flow.Launcher.Plugin.MultiprofileBookmarks.Tests.csproj" />
+  <Project Path="Flow.Launcher.Plugin.MultiprofileBookmarks/Flow.Launcher.Plugin.MultiprofileBookmarks.csproj" />
+</Solution>

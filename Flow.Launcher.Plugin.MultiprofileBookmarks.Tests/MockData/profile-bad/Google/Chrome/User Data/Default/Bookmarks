@@ -1,0 +1,14 @@
+{
+    "roots": {
+        "bookmark_bar": {
+            "children": [
+                {
+                    "name": "Broken",
+                    "type": "url",
+                    "url": "https://example.com"
+                }
+            ]
+        }
+    }
+    // Deliberately missing closing brace and comma or having malformed structure
+    "bad_key": "bad_value"
