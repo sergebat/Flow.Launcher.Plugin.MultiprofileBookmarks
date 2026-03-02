@@ -13,7 +13,7 @@ This C# [Flow launcher](https://github.com/Flow-Launcher/Flow.Launcher) plugin i
 
 Default action is `bb` to avoid conflict with built-in Bookmarks plugin. 
 
-Change it to `*` to ![Screenshot of plugin settings] to have all your bookmarks in the global list as on the screenshot above(settings-screenshot.png).
+Change it to `*` to to have all your bookmarks in the global list as on the screenshot above.
 
 ### Known limitations
 
